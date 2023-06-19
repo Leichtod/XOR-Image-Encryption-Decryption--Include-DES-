@@ -1,5 +1,5 @@
 # XOR Image Encryption-Decryption (Include DES) 
- XOR, DES Image Encryption Leichtod v1.0
+ XOR, DES Image Encryption-Decryption Leichtod v1.0
 
 Frameworks Install:
 
